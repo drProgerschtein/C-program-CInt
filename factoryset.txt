@@ -1,0 +1,2 @@
+str fac1.txt 10 -10
+stb fac2.txt 20 -20
